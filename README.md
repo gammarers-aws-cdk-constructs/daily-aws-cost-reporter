@@ -1,4 +1,4 @@
-# Daily AWS Cost Reporter
+# Daily AWS Cost Reporter (AWS CDK v2)
 
 [![GitHub](https://img.shields.io/github/license/gammarers-aws-cdk-constructs/daily-aws-cost-reporter?style=flat-square)](https://github.com/gammarers-aws-cdk-constructs/daily-aws-cost-reporter/blob/main/LICENSE)
 [![npm](https://img.shields.io/npm/v/daily-aws-cost-reporter?style=flat-square)](https://www.npmjs.com/package/daily-aws-cost-reporter)
