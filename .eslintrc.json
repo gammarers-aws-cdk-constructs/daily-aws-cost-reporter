@@ -153,6 +153,7 @@
         "devDependencies": [
           "**/test/**",
           "**/build-tools/**",
+          "src/funcs/cost-report.lambda.ts",
           ".projenrc.ts",
           "projenrc/**/*.ts"
         ],
