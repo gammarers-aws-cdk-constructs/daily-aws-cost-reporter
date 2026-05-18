@@ -90,7 +90,7 @@ exports[`DailyAWSCostReportStack (required props only) Should match snapshot 1`]
           "S3Bucket": {
             "Fn::Sub": "cdk-hnb659fds-assets-\${AWS::AccountId}-\${AWS::Region}",
           },
-          "S3Key": "f14d0fbdcd3023388c4fe1b5047746a271a4b012de84b024f8241f3e706916eb.zip",
+          "S3Key": "1ad2831b5e888e50b7272ff56efea54e05223495973f6c47131c53e570acb803.zip",
         },
         "Description": "A function to report daily cost.",
         "DurableConfig": {
@@ -151,7 +151,7 @@ exports[`DailyAWSCostReportStack (required props only) Should match snapshot 1`]
         },
         "FunctionVersion": {
           "Fn::GetAtt": [
-            "DailyAWSCostReporterCostReportFunctionCurrentVersion28AADFA5b8efadd02e38cd5998d5f4209fab04af",
+            "DailyAWSCostReporterCostReportFunctionCurrentVersion28AADFA5875bc98b945829dd32db7515dd0fc825",
             "Version",
           ],
         },
@@ -159,7 +159,7 @@ exports[`DailyAWSCostReportStack (required props only) Should match snapshot 1`]
       },
       "Type": "AWS::Lambda::Alias",
     },
-    "DailyAWSCostReporterCostReportFunctionCurrentVersion28AADFA5b8efadd02e38cd5998d5f4209fab04af": {
+    "DailyAWSCostReporterCostReportFunctionCurrentVersion28AADFA5875bc98b945829dd32db7515dd0fc825": {
       "Metadata": {
         "aws:cdk:do-not-refactor": true,
       },
